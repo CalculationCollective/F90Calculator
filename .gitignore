@@ -1,0 +1,6 @@
+.idea/
+.vs/
+.vscode/
+x64/
+x86/
+*.u2d

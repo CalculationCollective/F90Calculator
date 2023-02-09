@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "F90Calculator", "F90Calculator.vfproj", "{8384C1DE-13A1-469D-8B8E-F0C1F7DD28EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8384C1DE-13A1-469D-8B8E-F0C1F7DD28EC}.Debug|x64.ActiveCfg = Debug|x64
+		{8384C1DE-13A1-469D-8B8E-F0C1F7DD28EC}.Debug|x64.Build.0 = Debug|x64
+		{8384C1DE-13A1-469D-8B8E-F0C1F7DD28EC}.Debug|x86.ActiveCfg = Debug|Win32
+		{8384C1DE-13A1-469D-8B8E-F0C1F7DD28EC}.Debug|x86.Build.0 = Debug|Win32
+		{8384C1DE-13A1-469D-8B8E-F0C1F7DD28EC}.Release|x64.ActiveCfg = Release|x64
+		{8384C1DE-13A1-469D-8B8E-F0C1F7DD28EC}.Release|x64.Build.0 = Release|x64
+		{8384C1DE-13A1-469D-8B8E-F0C1F7DD28EC}.Release|x86.ActiveCfg = Release|Win32
+		{8384C1DE-13A1-469D-8B8E-F0C1F7DD28EC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28F7F33F-8875-4CB5-BB80-8993132A9ED1}
+	EndGlobalSection
+EndGlobal
